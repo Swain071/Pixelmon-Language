@@ -4,7 +4,7 @@
 *	Liste de gens ayant aidé à la correction de ma traduction:
 *	-Souvtorpixel
 *	-MentalysFR
-*	
+*	-Swain071
 *	Traduction en français par Keopha/Shueei, pour me contacter @Keodrop sur twitter ou Keopha sur le forum pixelmonmod si vous trouvez un bug ou une erreur !
 *	French translation by Keopha/Shueei, to contact me @Keodrop on twitter or Keopha on the pixelmonmod forum if you find any bug/error !
 *   Hello, and thanks for looking at the lang! If you are here to
@@ -21,7 +21,7 @@
 *   The final part is just saying it is the name of the item.
 */
 item.PC.name=PC
-item.Ranch Block.name=Ranch Block
+item.Ranch Block.name=Ranch
 item.Anvil.name=Enclume
 item.MechanicalAnvil.name=Enclume Mécanique
 item.Healer.name=Healer
@@ -79,7 +79,7 @@ item.Tres Orb.name=Orbe d'âme de Flamme
 item.Orb.name=Orbe
 itemGroup.tabPokeLoot=PokéButin
 item.itemFinder.name=Cherch'Objet
-item.Poke Ball.name=Poke Ball
+item.Poke Ball.name=PokeBall
 item.Great Ball.name=Super Ball
 item.Ultra Ball.name=Hyper Ball
 item.Master Ball.name=Master Ball
@@ -302,7 +302,7 @@ item.Cooked Blue Apricorn.name=Noigrume Bleue Cuite
 item.Cooked Yellow Apricorn.name=Noigrume Jaune Cuite
 item.Cooked Pink Apricorn.name=Noigrume Rose Cuite
 item.Cooked Red Apricorn.name=Noigrume Rouge Cuite
-item.HelixFossil.name=Nautile
+item.HelixFossil.name=Fossile Nautile
 item.DomeFossil.name=Fossile Dôme
 item.OldAmber.name=Vieil Ambre
 item.RootFossil.name=Fossile Racine
@@ -393,15 +393,15 @@ item.MetalPowder.name=Poudre Métal
 item.QuickPowder.name=Poudre Vite
 item.Stick.name=Bâton
 item.ThickClub.name=Masse Os
-item.PowerHerb.name=Herbe Pouvoir
+item.PowerHerb.name=Herbe-Pouvoir
 item.RedCard.name=Carton Rouge
 item.ExpertBelt.name=Ceinture Pro
 item.LightClay.name=Lumargile
 item.MentalHerb.name=Herbe Mental
 item.StickyBarb.name=Piquants
 item.QuickClaw.name=Vive Griffe
-item.WhiteHerb.name=Herbeblanche
-item.BigRoot.name=Grosseracine
+item.WhiteHerb.name=Herbe blanche
+item.BigRoot.name=Grosse racine
 item.WiseGlasses.name=Lunettes Sages
 item.ZoomLens.name=Lentille Zoom
 item.BrightPowder.name=Poudre Claire
@@ -419,7 +419,7 @@ item.EnigmaBerry.name=Baie Enigma
 item.BindingBand.name=Bande Étreinte
 item.IronBall.name=Balle Fer
 item.GripClaw.name=Accroc Griffe
-item.FloatStone.name=Pierrallégée
+item.FloatStone.name=Pierr'allégée
 item.MicleBerry.name=Baie Micle
 item.RingTarget.name=Point de Mire
 
@@ -480,13 +480,13 @@ item.MysticWater.name=Eau Mystique
 item.NeverMeltIce.name=Glace Éternelle
 item.PoisonBarb.name=Pic Venin
 item.SharpBeak.name=Bec Pointu
-item.SilkScarf.name=Mouchoir Soie
+item.SilkScarf.name=Mouchoir en Soie
 item.SilverPowder.name=Poudre Argentée
 item.SoftSand.name=Sable Doux
 item.SpellTag.name=Rune Sort
 item.TwistedSpoon.name=Cuiller Tordue
 item.destinyKnot.name=Nœud Destin
-item.chisel.name=Cisaille
+item.chisel.name=Burin
 item.ranchupgrade.name=Amélioration de Ranch
 item.hourglassgold.name=Sablier en Or d'Isi
 item.hourglasssilver.name=Sablier en Argent d'Isi
@@ -686,12 +686,12 @@ item.PokeMail-harbor.name=Lettre Port
 item.PokeMail-heart.name=Lettre Coeur
 item.PokeMail-inquiry.name=Lettre Demande
 item.PokeMail-like.name=Lettre Avis
-item.PokeMail-mech.name=Lettre Meca
+item.PokeMail-mech.name=Lettre Mecha
 item.PokeMail-mosaic.name=Lettremosaik
 item.PokeMail-orange.name=Lettre Oranj
 item.PokeMail-reply.name=Lettre Réponse
 item.PokeMail-retro.name=Lettre Retro
-item.PokeMail-rsvp.name=Lettre Invit.
+item.PokeMail-rsvp.name=Lettre Invit'
 item.PokeMail-shadown.name=Lettre Ombre
 item.PokeMail-snow.name=Lettre Neige
 item.PokeMail-space.name=Lettre Cosmo
@@ -814,10 +814,10 @@ item.NeoPlasmaHelm.name=Casque Neo Plasma
 item.NeoPlasmaPlate.name=Plastron Neo Plasma
 item.NeoPlasmaLegs.name=Jambières Neo Plasma
 item.NeoPlasmaBoots.name=Bottes Neo Plasma
-item.RocketHelm.name=Casque Rocket
-item.RocketPlate.name=Plastron Rocket
-item.RocketLegs.name=Jambières Rocket
-item.RocketBoots.name=Bottes Rocket
+item.RocketHelm.name=Casque Team Rocket
+item.RocketPlate.name=Plastron Team Rocket
+item.RocketLegs.name=Jambières Team Rocket
+item.RocketBoots.name=Bottes Team Rocket
 item.FirestoneHelm.name=Casque en Pierre Feu
 item.FirestonePlate.name=Plastron en Pierre Feu
 item.FirestoneLegs.name=Jambières en Pierre Feu
@@ -856,11 +856,11 @@ itemGroup.Natural=Nature
 itemGroup.Held Items=Objets Tenus 
 itemGroup.TMs/HMs=CTs/CSs
 itemGroup.utilityBlocks=Blocs Utilitaires
-itemGroup.PixelUtilitiesBlocks=Blocs PixelUtilities
-itemGroup.PixelUtilitiesItems=Objets PixelUtilities
-itemGroup.PixelUtilitiesArmor=Armures PixelUtilities
-itemGroup.PixelUtilsDecoration=Décorations PixelUtilities
-itemGroup.PixelUtilsTools=Outils PixelUtilities
+itemGroup.PixelUtilitiesBlocks=Blocs Pixelutilitaire
+itemGroup.PixelUtilitiesItems=Objets PixelUtilitaire
+itemGroup.PixelUtilitiesArmor=Armures PixelUtilitaire
+itemGroup.PixelUtilsDecoration=Décorations Pixelutilitaire
+itemGroup.PixelUtilsTools=Outils PixelUtilitaire
 //Attacks and their Descriptions
 /*
 *   The ones with attack.attackName.name is the attack's actual name and
